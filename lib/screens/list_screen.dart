@@ -9,9 +9,6 @@ class Criteria {
 
 
 List<Criteria> criteria = [
-  Criteria("Interaction", "The amount they interacted with students"),
-  Criteria("Commitment", "Degree of participation in class and events"),
-  Criteria("Effort", "The effort they put into their teachinf methods"),
-  Criteria("Adaptability", "How well were they with students"),
-  Criteria("Personality", "How much would you rate their personality"),
+  Criteria("What is flutter ", "flutter is an open-source UI framework for creating native mobile application.it allowa developers to build mobile applications a signal codebase."),
+  
 ];
